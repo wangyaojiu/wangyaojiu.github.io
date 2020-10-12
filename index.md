@@ -1,9 +1,8 @@
-
 <!doctype html>
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Wang Yaojiu Github Page</title>
+    <title>Yaojiu Github Page</title>
     <style>
         .container {
             width: 60%;
@@ -28,12 +27,12 @@
 </head>
 <body>
     <div class="container">
-        <h1>Wang Yaojiu Github Page</h1>
-        <h3><a href="m.html">主页</a>丨<a href="p.html">博客</a></h3>
-        <ul> <li><a href="https://musiccc.xyz/lz/">></li>
-            <li><a href="https://musiccc.xyz/yao/">腰乐队</a></li>
-            <li><a href="https://musiccc.xyz/td/">大门乐队整轨丨The Doors</a></li>
-              <li><a href="https://musiccc.xyz/pf/">平克弗洛伊德整轨丨Pink Floyd</a></li>
+        <h1>Yaojiu Github Page</h1>
+        <h3><a href="https://wang19.com">Home</a>丨<a href="https://blog.wang19.com">Blog</a></h3>
+        <ul> <li><a href="">Station group</a></li>
+            <li><a href="https://wangyoajiu.github.io/Cpp">C++</a></li>
+            <li><a href="">Data Structure</a></li>
+              <li><a href="">Arduino</a></li>
         </ul>
     </div>
 </body>
