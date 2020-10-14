@@ -29,7 +29,7 @@
     <div class="container">
         <h1>Yaojiu Github Page</h1>
         <h3><a href="https://wang19.com">Home </a> 丨 <a href="https://blog.wang19.com">Blog</a></h3>
-        <ul><li><a href="https://github.com/wangyaojiu/tuchuang">OS</a></li>
+        <ul><li><a href="https://github.com/wangyaojiu/tuchuang">object storage</a></li>
             <li><a href="https://wangyaojiu.github.io/Cpp">C++</a></li>
             <li><a href="https://blog.wang19.com/858">Teacher recruitment</a></li>
             <li><a href="https://wangyaojiu.github.io/algorithm/">Station group</a></li>         
