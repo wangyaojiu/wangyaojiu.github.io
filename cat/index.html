@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="https://wang19.com/logo.ico" alt="logo.ico"/>
+  <title>圈小猫小游戏</title>
+  <script src="https://cdn.jsdelivr.net/gh/wangyaojiu/music@master/js/phaser.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/wangyaojiu/music@master/js/catch-the-cat.js"></script>
+  <style>
+    #catch-the-cat{
+      display: flex;
+      justify-content: center;
+    }
+  </style>
+  <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?8deb608f5836116bbb4c8126581fcaca";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</head>
+<body>
+  <div id="catch-the-cat"></div>
+  
+</body>
+<script>
+  window.game = new CatchTheCatGame({
+    w: 11,
+    h: 11,
+    r: 20,
+    backgroundColor: 0xeeeeee,
+    parent: 'catch-the-cat',
+    statusBarAlign: 'center',
+    credit: '王药酒 wang19.com/cat'
+  });
+</script>
+
+</html>
